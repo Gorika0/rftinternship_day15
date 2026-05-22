@@ -4,12 +4,12 @@ A simple Python Exploratory Data Analysis (EDA) dashboard project using Matplotl
 This project demonstrates multiple plots, trend analysis, comparison charts, distribution analysis, and visual outlier detection using subplots.
 
 Features
-Line Chart (Trend Analysis)
-Bar Chart (Comparison)
-Histogram (Distribution)
-Scatter Plot (Outlier Detection)
-Subplots Dashboard
-Insight Generation
+-Line Chart (Trend Analysis)
+-Bar Chart (Comparison)
+-Histogram (Distribution)
+-Scatter Plot (Outlier Detection)
+-Subplots Dashboard
+-Insight Generation
 
 Charts Used
 1. Line Chart
